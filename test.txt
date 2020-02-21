@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 add line
-=======
 add line in m
->>>>>>> m
